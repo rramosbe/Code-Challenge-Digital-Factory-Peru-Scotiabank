@@ -48,4 +48,9 @@ Se requiere la creación de un microservicio el cual exponga 2 servicios reactiv
     "lastName": "Doe",
     "status": "ACTIVE",
     "age": 20
-}
+  }
+
+### Consultar alumnos activos
+
+  ```bash
+  POST /students/active
